@@ -1,0 +1,12 @@
+{
+  "file": "postit-read-1.0.0.apk",
+  "sizeBytes": 38349282,
+  "sha256": "8CC433F2EF9C7C49A51D4C5A6EFBE4198393B510DDB75F2341ABCB5579B16BA3",
+  "version": "1.0.0",
+  "buildMode": "release",
+  "architectures": [
+    "arm64-v8a",
+    "x86_64"
+  ],
+  "signing": "local demo key"
+}

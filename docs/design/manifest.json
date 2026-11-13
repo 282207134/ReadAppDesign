@@ -1,0 +1,302 @@
+{
+  "document": "Read app design",
+  "pages": [
+    {
+      "id": "1:5",
+      "name": "Page 1",
+      "frames": [
+        {
+          "id": "1:6",
+          "name": "Home",
+          "type": "FRAME",
+          "bounds": {
+            "x": -3373,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 6
+        },
+        {
+          "id": "1:219",
+          "name": "Home-long",
+          "type": "FRAME",
+          "bounds": {
+            "x": -2948,
+            "y": 1598,
+            "width": 375,
+            "height": 1488
+          },
+          "parentId": "1:5",
+          "childCount": 6
+        },
+        {
+          "id": "1:432",
+          "name": "Success",
+          "type": "FRAME",
+          "bounds": {
+            "x": -2523,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 3
+        },
+        {
+          "id": "1:544",
+          "name": "Buy",
+          "type": "FRAME",
+          "bounds": {
+            "x": 5127,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 5
+        },
+        {
+          "id": "1:581",
+          "name": "Fine-1",
+          "type": "FRAME",
+          "bounds": {
+            "x": -2098,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 4
+        },
+        {
+          "id": "1:663",
+          "name": "Find-2",
+          "type": "FRAME",
+          "bounds": {
+            "x": -1673,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 3
+        },
+        {
+          "id": "1:729",
+          "name": "Search for",
+          "type": "FRAME",
+          "bounds": {
+            "x": -1248,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 5
+        },
+        {
+          "id": "1:821",
+          "name": "Book details",
+          "type": "FRAME",
+          "bounds": {
+            "x": -823,
+            "y": 1598,
+            "width": 375,
+            "height": 1035
+          },
+          "parentId": "1:5",
+          "childCount": 4
+        },
+        {
+          "id": "1:969",
+          "name": "Book details bookshelf",
+          "type": "FRAME",
+          "bounds": {
+            "x": -398,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 6
+        },
+        {
+          "id": "1:1124",
+          "name": "Book details-share",
+          "type": "FRAME",
+          "bounds": {
+            "x": 27,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 5
+        },
+        {
+          "id": "1:1304",
+          "name": "Comment",
+          "type": "FRAME",
+          "bounds": {
+            "x": 452,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 2
+        },
+        {
+          "id": "1:1474",
+          "name": "Bookshelf",
+          "type": "FRAME",
+          "bounds": {
+            "x": 877,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 3
+        },
+        {
+          "id": "1:1602",
+          "name": "Mine",
+          "type": "FRAME",
+          "bounds": {
+            "x": 1302,
+            "y": 1598,
+            "width": 375,
+            "height": 957
+          },
+          "parentId": "1:5",
+          "childCount": 7
+        },
+        {
+          "id": "1:1718",
+          "name": "Category",
+          "type": "FRAME",
+          "bounds": {
+            "x": 3427,
+            "y": 1598,
+            "width": 375,
+            "height": 884
+          },
+          "parentId": "1:5",
+          "childCount": 3
+        },
+        {
+          "id": "1:1808",
+          "name": "Writer personal information",
+          "type": "FRAME",
+          "bounds": {
+            "x": 1727,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 5
+        },
+        {
+          "id": "1:1923",
+          "name": "Writer",
+          "type": "FRAME",
+          "bounds": {
+            "x": 3002,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 2
+        },
+        {
+          "id": "1:2168",
+          "name": "Settings",
+          "type": "FRAME",
+          "bounds": {
+            "x": 3852,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 3
+        },
+        {
+          "id": "1:2227",
+          "name": "payment",
+          "type": "FRAME",
+          "bounds": {
+            "x": 4277,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 2
+        },
+        {
+          "id": "1:2242",
+          "name": "payment-2",
+          "type": "FRAME",
+          "bounds": {
+            "x": 4702,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 6
+        },
+        {
+          "id": "1:2398",
+          "name": "Daily recommendation book",
+          "type": "FRAME",
+          "bounds": {
+            "x": -3798,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 2
+        },
+        {
+          "id": "1:2415",
+          "name": "article",
+          "type": "FRAME",
+          "bounds": {
+            "x": 2152,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 3
+        },
+        {
+          "id": "1:2419",
+          "name": "article-2",
+          "type": "FRAME",
+          "bounds": {
+            "x": 2577,
+            "y": 1598,
+            "width": 375,
+            "height": 812
+          },
+          "parentId": "1:5",
+          "childCount": 2
+        }
+      ]
+    },
+    {
+      "id": "1:2500",
+      "name": "Symbols",
+      "purpose": "28 reusable system components; not application screens"
+    }
+  ]
+}

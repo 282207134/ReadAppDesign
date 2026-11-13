@@ -1,0 +1,27 @@
+{
+  "integrationTest": "passed",
+  "screenshots": [
+    "01-home",
+    "02-home-long",
+    "03-success",
+    "04-find-focus",
+    "05-find-grid",
+    "06-search",
+    "07-book-details",
+    "08-library-added",
+    "09-book-share",
+    "10-comments",
+    "11-bookshelf",
+    "12-mine",
+    "13-category",
+    "14-author",
+    "15-writers",
+    "16-settings",
+    "17-payment",
+    "18-payment-cards",
+    "19-buy",
+    "20-daily",
+    "21-reader",
+    "22-reader-highlight"
+  ]
+}
